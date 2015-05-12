@@ -1,0 +1,15 @@
+D:\Training\SEIP\19 APR 2015\UniversityManagementApp\UniversityManagementApp\bin\Debug\UniversityManagementApp.exe.config
+D:\Training\SEIP\19 APR 2015\UniversityManagementApp\UniversityManagementApp\bin\Debug\UniversityManagementApp.exe
+D:\Training\SEIP\19 APR 2015\UniversityManagementApp\UniversityManagementApp\bin\Debug\UniversityManagementApp.pdb
+D:\Training\SEIP\19 APR 2015\UniversityManagementApp\UniversityManagementApp\obj\Debug\UniversityManagementApp.Properties.Resources.resources
+D:\Training\SEIP\19 APR 2015\UniversityManagementApp\UniversityManagementApp\obj\Debug\UniversityManagementApp.StudentEntryUI.resources
+D:\Training\SEIP\19 APR 2015\UniversityManagementApp\UniversityManagementApp\obj\Debug\UniversityManagementApp.csproj.GenerateResource.Cache
+D:\Training\SEIP\19 APR 2015\UniversityManagementApp\UniversityManagementApp\obj\Debug\UniversityManagementApp.exe
+D:\Training\SEIP\19 APR 2015\UniversityManagementApp\UniversityManagementApp\obj\Debug\UniversityManagementApp.pdb
+D:\Training\SEIP\19 APR 2015\UniversityManagementApp\UniversityManagementApp\obj\Debug\UniversityManagementApp.csprojResolveAssemblyReference.cache
+G:\Dot_NET_Batch_01_SAIEMON_100134\19-04-2015\UniversityManagementApp\UniversityManagementApp\bin\Debug\UniversityManagementApp.exe.config
+G:\Dot_NET_Batch_01_SAIEMON_100134\19-04-2015\UniversityManagementApp\UniversityManagementApp\obj\Debug\UniversityManagementApp.exe
+G:\Dot_NET_Batch_01_SAIEMON_100134\19-04-2015\UniversityManagementApp\UniversityManagementApp\obj\Debug\UniversityManagementApp.pdb
+G:\SEIP_100126 (NIPUN)\19-04-2015\UniversityManagementApp\UniversityManagementApp\bin\Debug\UniversityManagementApp.exe.config
+G:\SEIP_100126 (NIPUN)\19-04-2015\UniversityManagementApp\UniversityManagementApp\obj\Debug\UniversityManagementApp.exe
+G:\SEIP_100126 (NIPUN)\19-04-2015\UniversityManagementApp\UniversityManagementApp\obj\Debug\UniversityManagementApp.pdb
